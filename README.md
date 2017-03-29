@@ -4,7 +4,7 @@ Hello Kitty is a copy of Albert Sweigart's "spritesAndSounds.py" but with Hello 
 
 CREDITS
 
-Images from Hello Kitty and google search for publicly available clip-art.
+Images from Hello Kitty and Google search for publicly available clip-art.
 
 Sounds effects from "40 Games".
 
